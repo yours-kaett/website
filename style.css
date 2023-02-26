@@ -293,6 +293,12 @@ li {
   color: #353535;
 }
 
+.typewriter {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 #typewriter {
   overflow: hidden;
   border-right: 0.15em solid red;
